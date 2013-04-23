@@ -48,7 +48,8 @@
     "chai": "latest",
     "grunt-contrib-jshint": "latest",
     "grunt-contrib-watch": "latest",
-    "grunt-mocha-test": "latest"
+    "grunt-mocha-test": "latest",
+    "handlebars": "~1.0.10"
   },
   "keywords": [
     "blog generator",
