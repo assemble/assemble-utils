@@ -22,7 +22,7 @@ module.exports = function(grunt) {
     },
     jshint: {
       options: {
-        jshintrc: 'tasks/.jshintrc'
+        jshintrc: '.jshintrc'
       },
       files: [
         'Gruntfile.js',
@@ -39,7 +39,7 @@ module.exports = function(grunt) {
       options: {
         reporter: 'nyan'
       }
-    },
+    }
 
   });
 
