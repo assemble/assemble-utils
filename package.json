@@ -38,18 +38,19 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "highlight.js": "*",
+    "highlight.js": "~7.3.0",
     "js-yaml": "~2.0.3",
     "lodash": "~1.1.1",
     "marked": "~0.2.8"
   },
   "devDependencies": {
-    "grunt": "latest",
-    "chai": "latest",
-    "grunt-contrib-jshint": "latest",
-    "grunt-contrib-watch": "latest",
-    "grunt-mocha-test": "latest",
-    "handlebars": "~1.0.10"
+    "grunt": "~0.4.1",
+    "chai": "~1.6.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-mocha-test": "~0.2.2",
+    "handlebars": "1.0.10",
+    "highlight.js": "~7.3.0"
   },
   "keywords": [
     "blog generator",
