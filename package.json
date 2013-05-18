@@ -1,7 +1,7 @@
 {
   "name": "assemble-utils",
   "description": "Utilities built for the Assemble project.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/assemble/assemble-utils",
   "author": {
     "name": "assemble",
