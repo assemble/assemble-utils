@@ -7,6 +7,7 @@
 
 'use strict';
 
-module.exports = function () {
-  // do stuff
+module.exports = {
+  session: require('session-cache'),
+  sessionify: require('sessionify')
 };

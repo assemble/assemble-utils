@@ -29,5 +29,9 @@
     "mocha": "*",
     "should": "*"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "session-cache": "^0.1.3",
+    "sessionify": "^0.1.0"
+  }
 }
