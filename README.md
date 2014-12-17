@@ -18,7 +18,7 @@ npm test
 ## Usage
 
 ```js
-var assembleUtils = require('assemble-utils');
+var utils = require('assemble-utils');
 ```
 
 ## API
