@@ -1,0 +1,33 @@
+{
+  "name": "assemble-utils",
+  "description": "Utilies for Assemble",
+  "version": "0.2.0",
+  "homepage": "https://github.com/assemble/assemble-utils",
+  "author": {
+    "name": "Brian Woodward",
+    "url": "https://github.com/doowb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/assemble/assemble-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/assemble-utils/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/assemble/assemble-utils/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
